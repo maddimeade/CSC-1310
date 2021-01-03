@@ -1,0 +1,910 @@
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+What is the name of the file? (example.txt):  
+The Shawshank Redemption was added to the movie library!
+
+The Godfather was added to the movie library!
+
+The Dark Knight was added to the movie library!
+
+Schindler's List was added to the movie library!
+
+The Lord of the Rings: The Return of the King was added to the movie library!
+
+Fight Club was added to the movie library!
+
+The Lord of the Rings: Fellowship of the Ring was added to the movie library!
+
+Forrest Gump was added to the movie library!
+
+The Matrix was added to the movie library!
+
+The Lord of the Rings: The Two Towers was added to the movie library!
+
+One Flew Over the Cuckoo's Nest was added to the movie library!
+
+Se7en was added to the movie library!
+
+It's a Wonderful Life was added to the movie library!
+
+Saving Private Ryan was added to the movie library!
+
+Interstellar was added to the movie library!
+
+The Green Mile was added to the movie library!
+
+Raiders of the Lost Ark was added to the movie library!
+
+Back to the Future was added to the movie library!
+
+Peter Rabbit was added to the movie library!
+
+Jumanji: Welcome to the Jungle was added to the movie library!
+
+The Greatest Showman was added to the movie library!
+
+Early Man was added to the movie library!
+
+Sorry! Saving Private Ryan is already in in your movie library so it will not be added again.
+
+Sorry! Forrest Gump is already in in your movie library so it will not be added again.
+
+
+22 movies were read from the file and added to your movie library.
+
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+                                  ----------MOVIE 1----------
+                Movie Title:  Back to the Future
+           Length (minutes):  116
+              Year Released:  1985
+                      Genre:  Adventure, Comedy, Sci-Fi
+                     Rating:  PG
+       Number of Oscars Won:  1
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 2----------
+                Movie Title:  Early Man
+           Length (minutes):  89
+              Year Released:  2018
+                      Genre:  PG
+                     Rating:  0
+       Number of Oscars Won:  6
+            Number of Stars:  0.4
+
+
+                                  ----------MOVIE 3----------
+                Movie Title:  Fight Club
+           Length (minutes):  139
+              Year Released:  1999
+                      Genre:  Drama
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 4----------
+                Movie Title:  Forrest Gump
+           Length (minutes):  142
+              Year Released:  1994
+                      Genre:  Drama
+                     Rating:  PG-13
+       Number of Oscars Won:  6
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 5----------
+                Movie Title:  Interstellar
+           Length (minutes):  169
+              Year Released:  2014
+                      Genre:  Adveture, Drama, Sci-Fi
+                     Rating:  PG-13
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 6----------
+                Movie Title:  It's a Wonderful Life
+           Length (minutes):  130
+              Year Released:  1946
+                      Genre:  Drama, Family, Fantasy
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 7----------
+                Movie Title:  Jumanji: Welcome to the Jungle
+           Length (minutes):  119
+              Year Released:  2017
+                      Genre:  Action, Adventure, Comedy, Fantasy
+                     Rating:  PG-13
+       Number of Oscars Won:  0
+            Number of Stars:  7.2
+
+
+                                  ----------MOVIE 8----------
+                Movie Title:  One Flew Over the Cuckoo's Nest
+           Length (minutes):  133
+              Year Released:  1975
+                      Genre:  Drama
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 9----------
+                Movie Title:  Peter Rabbit
+           Length (minutes):  95
+              Year Released:  2018
+                      Genre:  Animation, Adventure, Comedy, Family, Fantasy
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  6.3
+
+
+                                  ----------MOVIE 10----------
+                Movie Title:  Raiders of the Lost Ark
+           Length (minutes):  115
+              Year Released:  1981
+                      Genre:  Action, Adventure
+                     Rating:  PG
+       Number of Oscars Won:  4
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 11----------
+                Movie Title:  Saving Private Ryan
+           Length (minutes):  169
+              Year Released:  1998
+                      Genre:  Drama, War
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 12----------
+                Movie Title:  Schindler's List
+           Length (minutes):  195
+              Year Released:  1993
+                      Genre:  Biography
+                     Rating:  R
+       Number of Oscars Won:  7
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 13----------
+                Movie Title:  Se7en
+           Length (minutes):  127
+              Year Released:  1995
+                      Genre:  Crime, Drama, Mystery
+                     Rating:  R
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 14----------
+                Movie Title:  The Dark Knight
+           Length (minutes):  92
+              Year Released:  2008
+                      Genre:  Action, Crime
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  9
+
+
+                                  ----------MOVIE 15----------
+                Movie Title:  The Godfather
+           Length (minutes):  115
+              Year Released:  1972
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  3
+            Number of Stars:  9.2
+
+
+                                  ----------MOVIE 16----------
+                Movie Title:  The Greatest Showman
+           Length (minutes):  105
+              Year Released:  2017
+                      Genre:  Biography, Drama, Musical, Romance
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8
+
+
+                                  ----------MOVIE 17----------
+                Movie Title:  The Green Mile
+           Length (minutes):  189
+              Year Released:  1999
+                      Genre:  Crime, Drama, Fantasy
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 18----------
+                Movie Title:  The Lord of the Rings: Fellowship of the Ring
+           Length (minutes):  178
+              Year Released:  2001
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  4
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 19----------
+                Movie Title:  The Lord of the Rings: The Return of the King
+           Length (minutes):  201
+              Year Released:  2003
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  11
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 20----------
+                Movie Title:  The Lord of the Rings: The Two Towers
+           Length (minutes):  179
+              Year Released:  2002
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 21----------
+                Movie Title:  The Matrix
+           Length (minutes):  136
+              Year Released:  1999
+                      Genre:  Action, Sci-Fi
+                     Rating:  R
+       Number of Oscars Won:  4
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 22----------
+                Movie Title:  The Shawshank Redemption
+           Length (minutes):  82
+              Year Released:  1994
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  9.3
+
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+MOVIE TITLE: 
+MOVIE LENGTH (in minutes): 
+MOVIE YEAR: 
+MOVIE GENRE: 
+MOVIE RATING: 
+NUMBER OF OSCARS WON: 
+STAR RATING (out of 10): 
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+                                  ----------MOVIE 1----------
+                Movie Title:  Back to the Future
+           Length (minutes):  116
+              Year Released:  1985
+                      Genre:  Adventure, Comedy, Sci-Fi
+                     Rating:  PG
+       Number of Oscars Won:  1
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 2----------
+                Movie Title:  Coco
+           Length (minutes):  105
+              Year Released:  2017
+                      Genre:  Animation, Adventure, Comedy
+                     Rating:  PG
+       Number of Oscars Won:  2
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 3----------
+                Movie Title:  Early Man
+           Length (minutes):  89
+              Year Released:  2018
+                      Genre:  PG
+                     Rating:  0
+       Number of Oscars Won:  6
+            Number of Stars:  0.4
+
+
+                                  ----------MOVIE 4----------
+                Movie Title:  Fight Club
+           Length (minutes):  139
+              Year Released:  1999
+                      Genre:  Drama
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 5----------
+                Movie Title:  Forrest Gump
+           Length (minutes):  142
+              Year Released:  1994
+                      Genre:  Drama
+                     Rating:  PG-13
+       Number of Oscars Won:  6
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 6----------
+                Movie Title:  Interstellar
+           Length (minutes):  169
+              Year Released:  2014
+                      Genre:  Adveture, Drama, Sci-Fi
+                     Rating:  PG-13
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 7----------
+                Movie Title:  It's a Wonderful Life
+           Length (minutes):  130
+              Year Released:  1946
+                      Genre:  Drama, Family, Fantasy
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 8----------
+                Movie Title:  Jumanji: Welcome to the Jungle
+           Length (minutes):  119
+              Year Released:  2017
+                      Genre:  Action, Adventure, Comedy, Fantasy
+                     Rating:  PG-13
+       Number of Oscars Won:  0
+            Number of Stars:  7.2
+
+
+                                  ----------MOVIE 9----------
+                Movie Title:  One Flew Over the Cuckoo's Nest
+           Length (minutes):  133
+              Year Released:  1975
+                      Genre:  Drama
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 10----------
+                Movie Title:  Peter Rabbit
+           Length (minutes):  95
+              Year Released:  2018
+                      Genre:  Animation, Adventure, Comedy, Family, Fantasy
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  6.3
+
+
+                                  ----------MOVIE 11----------
+                Movie Title:  Raiders of the Lost Ark
+           Length (minutes):  115
+              Year Released:  1981
+                      Genre:  Action, Adventure
+                     Rating:  PG
+       Number of Oscars Won:  4
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 12----------
+                Movie Title:  Saving Private Ryan
+           Length (minutes):  169
+              Year Released:  1998
+                      Genre:  Drama, War
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 13----------
+                Movie Title:  Schindler's List
+           Length (minutes):  195
+              Year Released:  1993
+                      Genre:  Biography
+                     Rating:  R
+       Number of Oscars Won:  7
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 14----------
+                Movie Title:  Se7en
+           Length (minutes):  127
+              Year Released:  1995
+                      Genre:  Crime, Drama, Mystery
+                     Rating:  R
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 15----------
+                Movie Title:  The Dark Knight
+           Length (minutes):  92
+              Year Released:  2008
+                      Genre:  Action, Crime
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  9
+
+
+                                  ----------MOVIE 16----------
+                Movie Title:  The Godfather
+           Length (minutes):  115
+              Year Released:  1972
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  3
+            Number of Stars:  9.2
+
+
+                                  ----------MOVIE 17----------
+                Movie Title:  The Greatest Showman
+           Length (minutes):  105
+              Year Released:  2017
+                      Genre:  Biography, Drama, Musical, Romance
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8
+
+
+                                  ----------MOVIE 18----------
+                Movie Title:  The Green Mile
+           Length (minutes):  189
+              Year Released:  1999
+                      Genre:  Crime, Drama, Fantasy
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 19----------
+                Movie Title:  The Lord of the Rings: Fellowship of the Ring
+           Length (minutes):  178
+              Year Released:  2001
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  4
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 20----------
+                Movie Title:  The Lord of the Rings: The Return of the King
+           Length (minutes):  201
+              Year Released:  2003
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  11
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 21----------
+                Movie Title:  The Lord of the Rings: The Two Towers
+           Length (minutes):  179
+              Year Released:  2002
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 22----------
+                Movie Title:  The Matrix
+           Length (minutes):  136
+              Year Released:  1999
+                      Genre:  Action, Sci-Fi
+                     Rating:  R
+       Number of Oscars Won:  4
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 23----------
+                Movie Title:  The Shawshank Redemption
+           Length (minutes):  82
+              Year Released:  1994
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  9.3
+
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+MOVIE TITLE: 
+Sorry! The Matrix is already in in your movie library so it will not be added again.
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+Choose from the following movies to remove:
+
+MOVIE 1: Back to the Future
+MOVIE 2: Coco
+MOVIE 3: Early Man
+MOVIE 4: Fight Club
+MOVIE 5: Forrest Gump
+MOVIE 6: Interstellar
+MOVIE 7: It's a Wonderful Life
+MOVIE 8: Jumanji: Welcome to the Jungle
+MOVIE 9: One Flew Over the Cuckoo's Nest
+MOVIE 10: Peter Rabbit
+MOVIE 11: Raiders of the Lost Ark
+MOVIE 12: Saving Private Ryan
+MOVIE 13: Schindler's List
+MOVIE 14: Se7en
+MOVIE 15: The Dark Knight
+MOVIE 16: The Godfather
+MOVIE 17: The Greatest Showman
+MOVIE 18: The Green Mile
+MOVIE 19: The Lord of the Rings: Fellowship of the Ring
+MOVIE 20: The Lord of the Rings: The Return of the King
+MOVIE 21: The Lord of the Rings: The Two Towers
+MOVIE 22: The Matrix
+MOVIE 23: The Shawshank Redemption
+Choose a movie to remove between 1 & 23:  
+
+The movie "Peter Rabbit" has been successfully deleted.
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+Choose from the following movies to edit:
+
+MOVIE 1: Back to the Future
+MOVIE 2: Coco
+MOVIE 3: Early Man
+MOVIE 4: Fight Club
+MOVIE 5: Forrest Gump
+MOVIE 6: Interstellar
+MOVIE 7: It's a Wonderful Life
+MOVIE 8: Jumanji: Welcome to the Jungle
+MOVIE 9: One Flew Over the Cuckoo's Nest
+MOVIE 10: Raiders of the Lost Ark
+MOVIE 11: Saving Private Ryan
+MOVIE 12: Schindler's List
+MOVIE 13: Se7en
+MOVIE 14: The Dark Knight
+MOVIE 15: The Godfather
+MOVIE 16: The Greatest Showman
+MOVIE 17: The Green Mile
+MOVIE 18: The Lord of the Rings: Fellowship of the Ring
+MOVIE 19: The Lord of the Rings: The Return of the King
+MOVIE 20: The Lord of the Rings: The Two Towers
+MOVIE 21: The Matrix
+MOVIE 22: The Shawshank Redemption
+Choose a movie to edit between 1 & 22:  
+
+Which detail do you wish to edit?
+1.  Title
+2.  Length
+3.  Year
+4.  Genre
+5.  Rating
+6.  Number of Oscars Won
+7.  Number of Stars
+8.  DONE EDITING
+CHOOSE 1-8:  
+Current Genre: Drama
+NEW GENRE:  
+
+Which detail do you wish to edit?
+1.  Title
+2.  Length
+3.  Year
+4.  Genre
+5.  Rating
+6.  Number of Oscars Won
+7.  Number of Stars
+8.  DONE EDITING
+CHOOSE 1-8:  
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+                                  ----------MOVIE 1----------
+                Movie Title:  Back to the Future
+           Length (minutes):  116
+              Year Released:  1985
+                      Genre:  Adventure, Comedy, Sci-Fi
+                     Rating:  PG
+       Number of Oscars Won:  1
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 2----------
+                Movie Title:  Coco
+           Length (minutes):  105
+              Year Released:  2017
+                      Genre:  Animation, Adventure, Comedy
+                     Rating:  PG
+       Number of Oscars Won:  2
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 3----------
+                Movie Title:  Early Man
+           Length (minutes):  89
+              Year Released:  2018
+                      Genre:  PG
+                     Rating:  0
+       Number of Oscars Won:  6
+            Number of Stars:  0.4
+
+
+                                  ----------MOVIE 4----------
+                Movie Title:  Fight Club
+           Length (minutes):  139
+              Year Released:  1999
+                      Genre:  Drama, Action
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 5----------
+                Movie Title:  Forrest Gump
+           Length (minutes):  142
+              Year Released:  1994
+                      Genre:  Drama
+                     Rating:  PG-13
+       Number of Oscars Won:  6
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 6----------
+                Movie Title:  Interstellar
+           Length (minutes):  169
+              Year Released:  2014
+                      Genre:  Adveture, Drama, Sci-Fi
+                     Rating:  PG-13
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 7----------
+                Movie Title:  It's a Wonderful Life
+           Length (minutes):  130
+              Year Released:  1946
+                      Genre:  Drama, Family, Fantasy
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 8----------
+                Movie Title:  Jumanji: Welcome to the Jungle
+           Length (minutes):  119
+              Year Released:  2017
+                      Genre:  Action, Adventure, Comedy, Fantasy
+                     Rating:  PG-13
+       Number of Oscars Won:  0
+            Number of Stars:  7.2
+
+
+                                  ----------MOVIE 9----------
+                Movie Title:  One Flew Over the Cuckoo's Nest
+           Length (minutes):  133
+              Year Released:  1975
+                      Genre:  Drama
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 10----------
+                Movie Title:  Raiders of the Lost Ark
+           Length (minutes):  115
+              Year Released:  1981
+                      Genre:  Action, Adventure
+                     Rating:  PG
+       Number of Oscars Won:  4
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 11----------
+                Movie Title:  Saving Private Ryan
+           Length (minutes):  169
+              Year Released:  1998
+                      Genre:  Drama, War
+                     Rating:  R
+       Number of Oscars Won:  5
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 12----------
+                Movie Title:  Schindler's List
+           Length (minutes):  195
+              Year Released:  1993
+                      Genre:  Biography
+                     Rating:  R
+       Number of Oscars Won:  7
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 13----------
+                Movie Title:  Se7en
+           Length (minutes):  127
+              Year Released:  1995
+                      Genre:  Crime, Drama, Mystery
+                     Rating:  R
+       Number of Oscars Won:  1
+            Number of Stars:  8.6
+
+
+                                  ----------MOVIE 14----------
+                Movie Title:  The Dark Knight
+           Length (minutes):  92
+              Year Released:  2008
+                      Genre:  Action, Crime
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  9
+
+
+                                  ----------MOVIE 15----------
+                Movie Title:  The Godfather
+           Length (minutes):  115
+              Year Released:  1972
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  3
+            Number of Stars:  9.2
+
+
+                                  ----------MOVIE 16----------
+                Movie Title:  The Greatest Showman
+           Length (minutes):  105
+              Year Released:  2017
+                      Genre:  Biography, Drama, Musical, Romance
+                     Rating:  PG
+       Number of Oscars Won:  0
+            Number of Stars:  8
+
+
+                                  ----------MOVIE 17----------
+                Movie Title:  The Green Mile
+           Length (minutes):  189
+              Year Released:  1999
+                      Genre:  Crime, Drama, Fantasy
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  8.5
+
+
+                                  ----------MOVIE 18----------
+                Movie Title:  The Lord of the Rings: Fellowship of the Ring
+           Length (minutes):  178
+              Year Released:  2001
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  4
+            Number of Stars:  8.8
+
+
+                                  ----------MOVIE 19----------
+                Movie Title:  The Lord of the Rings: The Return of the King
+           Length (minutes):  201
+              Year Released:  2003
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  11
+            Number of Stars:  8.9
+
+
+                                  ----------MOVIE 20----------
+                Movie Title:  The Lord of the Rings: The Two Towers
+           Length (minutes):  179
+              Year Released:  2002
+                      Genre:  Adventure
+                     Rating:  PG-13
+       Number of Oscars Won:  2
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 21----------
+                Movie Title:  The Matrix
+           Length (minutes):  136
+              Year Released:  1999
+                      Genre:  Action, Sci-Fi
+                     Rating:  R
+       Number of Oscars Won:  4
+            Number of Stars:  8.7
+
+
+                                  ----------MOVIE 22----------
+                Movie Title:  The Shawshank Redemption
+           Length (minutes):  82
+              Year Released:  1994
+                      Genre:  Drama, Crime
+                     Rating:  R
+       Number of Oscars Won:  0
+            Number of Stars:  9.3
+
+
+
+What would you like to do?
+1.  Read movies from file.
+2.  Save movies to a file.
+3.  Add a movie.
+4.  Delete a movie.
+5.  Edit a movie.
+6.  Print all movies.
+7.  Delete ALL movies and end the program.
+CHOOSE 1-7:  
+
+GOODBYE!
+
